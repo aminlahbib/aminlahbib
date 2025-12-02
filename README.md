@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Amine%20Lahbib&section=header&fontAlign=50&animation=fadeIn&fontSize=80&fontAlignY=50&textBg=false&desc=Full-Stack%20Engineer%20|%20Devops%20Engineer%20|%20Solution%20Architect&descSize=20&descAlignY=66"/>
+
 <div align="center">
   <!-- Typing intro -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Developer+%7C+Builder+%7C+Strategist;AI+%2B+Automation+for+Real-World+Impact;Security-minded+systems+from+idea+to+production" alt="Typing intro" />
@@ -86,3 +89,6 @@
 ✅ Full-time opportunities | ✅ Freelance projects | ✅ Open source collaboration | ✅ Tech discussions
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontAlignY=70&animation=twinkling&fontColor=ffffff"/>
+
