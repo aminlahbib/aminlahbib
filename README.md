@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Amine%20Lahbib&section=header&fontAlign=50&animation=fadeIn&fontSize=80&fontAlignY=50&textBg=false&desc=Full-Stack%20Engineer%20|%20Devops%20Engineer%20|%20Solution%20Architect&descSize=20&descAlignY=66"/>
 
