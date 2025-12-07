@@ -71,7 +71,7 @@
 
 **Got an exciting project? Let's build something amazing together! 🚀**
 
-<a href="https://aminlahbib.vercel.app" target="_blank">
+<a href="[https://aminlahbib.vercel.app](https://aminelahbib-devfolio.vercel.app)" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/amine-lahbib-60877321b/" target="_blank">
