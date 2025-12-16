@@ -21,7 +21,7 @@
 </div>
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminlahbib&custom_title=Dhia's%20Contribution%20Graph&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6b6b&area_color=00f7f7&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminlahbib&custom_title=Amine's%20Contribution%20Graph&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6b6b&area_color=00f7f7&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
